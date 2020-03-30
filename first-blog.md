@@ -9,3 +9,5 @@ bash
 whoami
 cd /root
 ```
+
+###### [测试博客2](blog2.md)
